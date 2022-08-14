@@ -1,2 +1,3 @@
 # Youtube-Data-Analysis
-pre-process and eda YouTube videos
+
+An exploratory data analysis on trending videos in US
